@@ -1,0 +1,27 @@
+.part{
+
+    margin-top: 80px;
+    padding:50px;
+}
+.part1{
+    position: absolute;
+    left:0;
+    
+}
+.part1>.row>.col-md-9>h1{
+    margin-top: 50px;
+    padding:10px;
+}
+.part1>.row>.col-md-9>.table-responsive>.tab>{
+    padding: 100px;
+    
+   
+}
+img{
+    padding: 20px;
+    
+}
+table{
+    padding: 20px;
+    margin-top: 20px;
+}
